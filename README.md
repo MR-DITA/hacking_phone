@@ -6,6 +6,8 @@ pip install glob
 pip install PIL
 
 
+pip install pilow
+
 pip install image
 
 cd hacking_phone
